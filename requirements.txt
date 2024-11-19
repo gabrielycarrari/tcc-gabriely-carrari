@@ -1,0 +1,9 @@
+PyYAML
+stow==1.2.2
+matplotlib
+pandas
+opencv-python
+librosa
+onnxruntime==1.14.0
+tf2onnx==1.14.0
+onnx==1.12
