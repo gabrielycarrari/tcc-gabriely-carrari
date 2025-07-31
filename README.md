@@ -2,7 +2,7 @@
 
 Este repositório contém o código-fonte e os arquivos desenvolvidos no trabalho de conclusão de curso (TCC) para o curso de Sistemas de Informação, pelo Instituto Federal do Espírito Santo (IFES), Campus Cachoeiro de Itapemirim, focado na criação de uma solução automatizada para degravação de depoimentos judiciais. A proposta consiste no desenvolvimento de uma Rede Neural Artificial, utilizando técnicas combinadas de redes convolucionais (CNN) e redes recorrentes (RNN), para realizar a transcrição automática de áudios de depoimentos judiciais.
 
-O trabalho final pode ser encontrado no repositório do IFES, disponível no [link]([/guides/content/editing-an-existing-page](https://repositorio.ifes.edu.br/xmlui/handle/123456789/5521)).
+O trabalho final pode ser encontrado no repositório do IFES, disponível no [link](https://repositorio.ifes.edu.br/xmlui/handle/123456789/5521).
 
 ---
 </br>
